@@ -17,3 +17,10 @@ header input {
     font-size: 20px;
     margin:20px 0px
 }
+
+.news_list_item{
+    font-family: Roboto;
+    box-sizing: border-box;
+    padding: 20px;
+    border-bottom: 1px solid grey;
+}
